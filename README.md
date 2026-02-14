@@ -2,8 +2,6 @@
 
 A comprehensive, production-ready SaaS starter kit built with Next.js 15, featuring authentication, subscriptions, AI integration, and modern UI components. Fork it, customize it, and launch your SaaS product fast.
 
-> Originally based on [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) (MIT License)
-
 ## Features
 
 ### Authentication & User Management
